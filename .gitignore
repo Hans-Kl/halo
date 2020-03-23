@@ -10,6 +10,7 @@ logs/
 !gradle/wrapper/gradle-wrapper.jar
 bin/
 
+src/main/resources/templates/themes/anatole/
 ### STS ###
 .apt_generated
 .classpath
